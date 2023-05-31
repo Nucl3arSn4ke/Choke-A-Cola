@@ -1,0 +1,16 @@
+/* Here we can set styles for this lab page that we don't want to effect others pages */
+
+/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+h1{
+  text-align: center;
+  font-size: 144pt;
+  font-family: 'Coca Cola ii', sans-serif;
+  color: #fff;
+  margin: 50px;
+}
+
+#titleblock {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #e61d2b;
+  }

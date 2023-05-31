@@ -1,0 +1,32 @@
+/* this css file will only style the homepage of our site */
+
+h1{
+  text-align: center;
+  font-size: 144pt;
+  font-family: 'Coca Cola ii', sans-serif;
+  color: #fff;
+  margin: 50px;
+}
+
+/*links (4 bottles)*/
+#bottlelinks {
+  position: relative;
+  overflow: hidden;
+}
+
+.bottle {
+  float: left;
+  width: 23%;
+  margin: 1% 1% 45px 1%;
+}
+
+.name {
+  position: relative;
+  text-align: center;
+  bottom: 0px;
+}
+
+.bottle img{
+  width: 100%;
+  display: block;
+}

@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-size: 144pt;
+    font-family: 'Quicksand';
+    color: #fff;
+    margin: 50px;
+  }
+
+#titleblock {
+padding: 10px;
+margin-bottom: 10px;
+background-color: #acd0ff;
+}
